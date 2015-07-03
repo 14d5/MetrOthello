@@ -1,7 +1,10 @@
 @charset "UTF-8";
 
 body {
-    f
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 h1 {
@@ -9,7 +12,7 @@ h1 {
     padding: 0;
     color: black;
     font-size: 2.0em;
-    text-align: center;
+    text-align: right;
 }
 
 .img{
